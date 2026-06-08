@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(/c/Python/python.exe \"e:/Code Files/temp/translatemcmod/test_agent_api.py\")",
+      "Bash(PYTHONIOENCODING=utf-8 /c/Python/python.exe \"e:/Code Files/temp/translatemcmod/test_agent_api.py\")"
+    ]
+  }
+}
